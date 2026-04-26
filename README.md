@@ -14,14 +14,6 @@ It collects basic local host metadata and prints it as JSON:
 
 The tool is designed for small-scale defensive security assessment and lab work. It provides a lightweight way to collect basic OS and browser version information from a Windows host without installing an agent or collecting sensitive user data.
 
-This kind of inventory is useful for:
-
-- identifying outdated operating system builds
-- identifying outdated browser versions
-- basic asset visibility
-- small-organisation security reviews
-- lab exercises around local enumeration and defensive telemetry
-
 ## Privacy and Scope
 
 This tool does **not** collect:
