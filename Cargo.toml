@@ -1,0 +1,8 @@
+[package]
+name = "winventory-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Small Rust-based Windows asset inventory tool for defensive security assessment."
+license = "MIT"
+
+[dependencies]
